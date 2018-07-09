@@ -30,8 +30,8 @@ Fonctionnalité disponibles
 
 L'équipe
 ============
-GUITTON Julien
 SOULEYMANE Ibrahim
+GUITTON Julien
 COUGNAUD Julien
 MOITEAUX Quentin
 
